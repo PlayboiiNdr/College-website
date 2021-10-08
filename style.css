@@ -1,0 +1,47 @@
+        .gfg {
+            margin: 0%;
+            position: relative;
+        }
+  
+        .first-txt {
+            position: absolute;
+            top: 350px;
+            left: 50px;
+            right: 300px;
+            background-color: lightgrey;
+            opacity: 0.8;
+
+        }
+        .second-txt {
+            position: absolute;
+            top: 500px;
+            left: 50px;
+            right: 725px;
+            background-color: lightgrey;
+            opacity: 0.8;
+        }
+        .third-txt {
+            position: absolute;
+            top: 500px;
+            left: 440px;
+            right: 300px;
+            background-color: lightgrey;
+            opacity: 0.8;
+        }
+        .fourth-txt {
+            position: absolute;
+            top: 650px;
+            left: 50px;
+            right: 725px;
+            background-color: lightgrey;
+            opacity: 0.8;
+        }
+            .fith-txt {
+            position: absolute;
+            top: 650px;
+            left: 440px;
+            right: 300px;
+            background-color: lightgrey;
+            opacity: 0.8;
+        }
+
